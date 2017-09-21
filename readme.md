@@ -26,5 +26,8 @@ Yes.
 
 ## Changelog ##
 
+### X.0.1 ###
+* Reveal your inner panda, pig, or robot.
+
 ### X ###
 * A groundbreaking toolbar for a groundbreaking CMS.

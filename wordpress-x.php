@@ -7,7 +7,7 @@
  * Author URI:      https://johnblackbourn.com
  * Text Domain:     wordpress-x
  * Domain Path:     /languages
- * Version:         X
+ * Version:         X.0.1
  *
  * @package WordPress_X
  */
